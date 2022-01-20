@@ -1,0 +1,13 @@
+.Button {
+    width: 30%;
+    background-color: rgb(241, 241, 241);
+    color: grey;
+    font-size: large;
+    font-weight: 500;
+    border: none;
+    border-radius: 20px;
+}
+.Button:focus {
+    background-color: rgb(214, 214, 214);
+    color: rgb(255, 255, 255);
+}

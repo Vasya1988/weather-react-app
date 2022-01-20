@@ -1,0 +1,9 @@
+.WeatherInfo {
+    width: 100%;
+    height: 140px;
+    /* background-color: #583131; */
+    border-radius: 36px;
+    margin-top: 14px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+}

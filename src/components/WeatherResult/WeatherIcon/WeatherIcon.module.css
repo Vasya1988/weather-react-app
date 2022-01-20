@@ -1,0 +1,14 @@
+.WeatherIcon {
+    width: 140px;
+    height: 106px;
+    /* background-color: #583131; */
+    border-radius: 36px;
+}
+.WeatherIcon img {
+    position: relative;
+    left: 14%;
+}
+.WeatherIcon-bigger {
+    width: 100%;
+    background-color: #315839;
+}

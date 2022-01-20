@@ -1,0 +1,12 @@
+.Description {
+    padding: 0 14px;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+    margin-left: 6px;
+}
+.Description > * {
+    margin:  0;
+}
+.Description h2 {
+    margin: 0;
+}

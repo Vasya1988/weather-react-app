@@ -1,0 +1,21 @@
+.NameCity {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.ChangeName {
+    padding: 0 16px;
+    margin: 0;
+    width: 66%;
+    height: 40px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 20px;
+    font-size: large;
+    font-weight: 500;
+    background-color: rgb(241, 241, 241);
+    outline: none;
+}
+.wrong {
+    border: 2px solid red;
+}
